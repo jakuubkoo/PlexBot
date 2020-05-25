@@ -39,7 +39,7 @@ public class MessageReceivedListener extends ListenerAdapter {
 
     @Override
     public void onGuildMessageReceived(GuildMessageReceivedEvent event) {
-        if (!event.getMessage().getContentRaw().isEmpty() && event.getMessage().getContentRaw().startsWith(Main.getInstance().getPrefix())){
+        if (!event.getMessage().getContentRaw().isEmpty() && event.getMessage().getContentRaw().startsWith(String.valueOf(Main.getInstance().config.prefix))){
             String cmd = event.getMessage().getContentRaw().split(" ")[0].substring(1);
             String[] args = event.getMessage().getContentRaw().substring(0, cmd.length()).split(" ");
 
