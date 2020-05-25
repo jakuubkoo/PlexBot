@@ -1,6 +1,6 @@
 ![ISSUES OPENED](https://img.shields.io/github/issues/jakuubkoo/PlexBot?style=for-the-badge)
 ![LAST COMMIT](https://img.shields.io/github/last-commit/jakuubkoo/PlexBot?style=for-the-badge)
-![LICENSE](https://img.shields.io/github/license/jakuubkoo/PlexBot?style=for-the-badge)
+![LICENSE WTF](https://img.shields.io/github/license/jakuubkoo/PlexBot?style=for-the-badge)
 ![STARS](https://img.shields.io/github/stars/jakuubkoo/PlexBot?style=for-the-badge)
 
 # PlexBot
